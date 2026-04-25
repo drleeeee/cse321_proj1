@@ -23,7 +23,7 @@ cse321_proj1/
 ├── README.md               # This execution guide
 ├── main.py                 # Single entry point for all experiments
 ├── data/
-│   └── students.csv        # 100,000 student records (Mandatory)
+│   └── student.csv        # 100,000 student records (Mandatory)
 └── src/
     ├── btree.py            # B-tree implementation
     ├── bstar_tree.py       # B*-tree implementation (Redistribution & 2-to-3 Split)
