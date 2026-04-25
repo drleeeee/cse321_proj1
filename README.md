@@ -36,7 +36,7 @@ cse321_proj1/
 This project features a fully automated Command Line Interface (CLI) to evaluate the fundamental workloads: Insertion, Point Search, Range Query, and Deletion.
 
 ### Step 3.1: Data Preparation
-Ensure the provided `students.csv` file is located inside the `data/` directory. If the file is missing, the script will automatically generate 100,000 dummy records to prevent execution failure.
+Ensure the provided `student.csv` file is located inside the `data/` directory. If the file is missing, the script will automatically generate 100,000 dummy records to prevent execution failure.
 
 ### Step 3.2: Running the Fundamental Workloads
 Navigate to the root directory (`cse321_proj1/`) in your terminal and execute `main.py`. The default fan-out order (d) is set to 5.
